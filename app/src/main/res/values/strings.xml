@@ -2,7 +2,9 @@
 <resources>
 
     <string name="hello">Hello World, AndroidCompass!</string>
-    <string name="app_name">NewCompass</string>
+    <string name="app_name">Brújula</string>
      <string name="Show">Show</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
 
 </resources>
